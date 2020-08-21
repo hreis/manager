@@ -1,4 +1,3 @@
 # manager
 
 aa
-s
